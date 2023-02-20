@@ -5,6 +5,6 @@
 ## 💎
  - 🔭 I’m currently working on small practice projects
  - 🌱 I’m currently learning Python
- - 🐈‍⬛ I love cats
+ - 🐈‍ I love cats
  - 💃 my favorite hobby is dancing
 
