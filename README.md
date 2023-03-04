@@ -8,6 +8,8 @@
  - 🐈‍ I love cats
  - 💃 my favorite hobby is dancing
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
 ## My Tools
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50" style="max-width:100%;">
