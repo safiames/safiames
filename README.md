@@ -4,7 +4,7 @@
 
 ## About Me
  - 🔭 I’m currently working on small practice projects
- - 🌱 I’m currently learning C#
+ - 🌱 I’m currently learning C#, HTML and CSS
  - 🐈‍ I love cats
  - 💃 my favorite hobby is dancing
 
