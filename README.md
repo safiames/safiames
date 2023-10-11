@@ -9,7 +9,7 @@ Over on my GitHub profile, you'll discover project solutions tied to my academic
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
-[![forthebadge][certified by-eddie & steve-.svg](https://raw.githubusercontent.com/safiames/safiames/b7f01c11a9f01e9e54811efb553041a17cf63b7d/certified%20by-eddie%20%26%20steve-.svg)
+[![forthebadge](https://raw.githubusercontent.com/safiames/safiames/b7f01c11a9f01e9e54811efb553041a17cf63b7d/certified%20by-eddie%20%26%20steve-.svg)
 
 ## My Tools
 <div style="display: flex;">
