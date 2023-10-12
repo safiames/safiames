@@ -1,5 +1,8 @@
 ### Hi there, I'm Safi  🛼
-![Stranger Things GIF](https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif)
+<p align="center">
+  <img src="https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif" alt="Stranger Things GIF">
+</p>
+
 
 
 
