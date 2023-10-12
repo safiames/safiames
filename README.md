@@ -1,4 +1,6 @@
-### Hi there, I'm Safi  🛼
+<h3 align="center">Hi there, I'm Safi 🛼</h3>
+
+
 <p align="center">
   <img src="https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif" alt="Stranger Things GIF">
 </p>
