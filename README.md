@@ -17,6 +17,8 @@ Over on my GitHub profile, you'll discover project solutions tied to my academic
 
 [![forthebadge](https://raw.githubusercontent.com/safiames/safiames/b7f01c11a9f01e9e54811efb553041a17cf63b7d/certified%20by-eddie%20%26%20steve-.svg)](https://forthebadge.com?primaryBGColor=%2331C4F3&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=certified+by&secondaryLabel=eddie+%26+steve&tertiaryLabel=&panels=2#/generator)
 
+[![forthebadge](https://github.com/safiames/safiames/raw/main/Elliot%20Alderson-is%20my%20spirit%20animal-.svg)](https://forthebadge.com?primaryBGColor=%23bd10e0&primaryTextColor=%23FFFFFF&secondaryBGColor=%239013fe&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=Elliot+Alderson&secondaryLabel=is+my+spirit+animal&tertiaryLabel=&panels=2#/generator)
+
 
 ## My Tools
 <div style="display: flex;">
