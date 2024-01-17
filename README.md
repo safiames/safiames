@@ -5,6 +5,8 @@
   <img src="https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif" alt="Stranger Things GIF">
 </p>
 
+<p align="center"> 
+<em>But when you come right down to it, at its core, beneath every choice, there's either a one or a zero.</em></p>
 
 
 
