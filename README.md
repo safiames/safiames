@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif" alt="Stranger Things GIF">
+  <img src="https://media1.tenor.com/m/veAjYdt27eoAAAAC/eddie-munson-eddie.gif" alt="Stranger Things GIF">
 </p>
 
 <p align="center"> 
