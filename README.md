@@ -11,9 +11,9 @@
 
 
 ## About Me
-I'm currently studying web development at Helsinki Business College in Finland.  💻 My focus is on honing my skills with the .NET framework, delving into the realms of C# and ASP.NET, while also exploring React and relational databases, particularly SQL. 📊 My toolkit also includes a touch of Python.
-
-Over on my GitHub profile, you'll discover project solutions tied to my academic journey, along with a peek at some personal creations. 🪄 Stay tuned!
+<p>🌱 Currently Learning: Deepening my knowledge in JavaScript and exploring new frameworks.</p>
+<p>👨‍💻 Current Role: Software Developer Intern at Triona, Helsinki.</p>
+<p>💡 Interests: Tech innovation, UI/UX design, and making life simpler and more fun with tech.</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
