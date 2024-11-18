@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Safi 🛼</h1>
 
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/t40xH-2R7bMAAAAC/eddie-eddie-munson.gif" alt="Stranger Things GIF">
-</p>
+
 
 <p align="center"> 
 <em>But when you come right down to it, at its core, beneath every choice, there's either a one or a zero.</em></p>
