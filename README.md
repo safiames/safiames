@@ -6,7 +6,9 @@
 <p align="center"> 
 <em>But when you come right down to it, at its core, beneath every choice, there's either a one or a zero.</em></p>
 
-
+<p align="center">
+  <img src="eddie.gif" alt="animated" />
+</p>
 
 ## About Me
 <p>🌱 Currently Learning: Deepening my knowledge in JavaScript and exploring new frameworks.</p>
