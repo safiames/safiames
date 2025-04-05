@@ -11,8 +11,6 @@
 </p>
 
 ## About Me
-<p>🌱 Currently Learning: Deepening my knowledge in JavaScript and exploring new frameworks.</p>
-<p>💡 Interests: Tech innovation, UI/UX design, and making life simpler and more fun with tech.</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
